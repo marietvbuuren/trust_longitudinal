@@ -2,6 +2,7 @@
 
 Matlab code used to analyze longitudinal fMRI data in trust game study in adolescence project, manuscript: Learning whom not to trust across early adolescence: a longitudinal neuroimaging study to trusting behavior involving an uncooperative other- Schreuders E., van Buuren M. et al.
 Preregistration of analyses, as well as R code, can be found at  https://osf.io/b9mdh/. 
+Preprint available at https://psyarxiv.com/xp8jz/ 
 
 Matlab scripts run in combination with packages mentioned in manuscript; SPM 12, and marsbar, version 0.44.
 
